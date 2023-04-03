@@ -42,7 +42,7 @@
 										Controls and Dynamics
 									</li>
 									<li>
-										Environmental Management
+										Environmental Managemmment
 									</li>
 									<li>
 										Fluid Mechanics
